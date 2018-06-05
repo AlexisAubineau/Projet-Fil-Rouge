@@ -1,5 +1,3 @@
-                                                        Projet Fil Rouge
-
 ### Missions
 
 L'entreprise OLCorp est un acteur français majeur dans la fourniture de services informatiques sur mesure.
